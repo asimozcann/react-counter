@@ -1,0 +1,29 @@
+.cnt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.count-wrapper {
+  text-align: center;
+}
+.count {
+  font-size: large;
+}
+.btn {
+  cursor: pointer;
+  margin: 20px;
+  font-size: large;
+  padding: 12px;
+  border-radius: 5px;
+  border: none;
+
+  color: white;
+}
+.btn.plus {
+  background-color: rgb(9, 232, 9);
+}
+.btn.backward {
+  background-color: red;
+}
