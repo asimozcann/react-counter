@@ -27,3 +27,6 @@
 .btn.backward {
   background-color: red;
 }
+.btn.reset {
+  background-color: gray;
+}
